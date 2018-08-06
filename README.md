@@ -1,4 +1,5 @@
 # [Please refer to Wiki](https://github.com/dgtie/integrated-project/wiki)
+![Image](robocar.JPG)
 
 ## Welcome to GitHub Pages
 
@@ -27,9 +28,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-![Image](robocar.JPG)
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
