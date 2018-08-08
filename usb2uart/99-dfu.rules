@@ -1,0 +1,7 @@
+#/etc/udev/rules.d/99-dfu.rules
+# FT230
+SUBSYSTEM=="usb", ATTR{idVendor}=="0403", ATTR{idProduct}=="6015", MODE="666", GROUP="plugdev"
+
+#PORT
+KERNEL=="ttyUSB0", MODE="666"
+
